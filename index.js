@@ -22,7 +22,7 @@ client.on('ready', () => {
 });
 client.on('message', async message => {
   let prefix = config.prefix;
-  const args = message.content.slice(prefix.length).trim().split(/ + /g); //this will slice the prefix and cmd so only args are left for eg it will slice of /kick and only person and reason are left if it was /kick person reason
+  const args = message.content.slice(prefix.length).trim().split(/ +/g); //this will slice the prefix and cmd so only args are left for eg it will slice of /kick and only person and reason are left if it was /kick person reason
   const command = args.shift().toLowerCase(); //this is the command , this will get args out and leave lowercased command
   let commandfile = client.commands.get(command); //this will get the file like if cmd user typed was ping, it will search for ping.js
   if (commandfile) commandfile.run(client, message, args); //if command file exists then it will run it
