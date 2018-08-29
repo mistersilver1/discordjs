@@ -17,4 +17,4 @@ Step 2) Change token in config.json file
 Step 3) Run "npm i" in command prompt/terminal/powershell in the directory where the files are located.
 Step 4) Add your own commands and have fun!
 
-- Glow Narrow  [Blaze King]
+ - Glow Narrow  [Blaze King]
