@@ -1,5 +1,5 @@
 # discordjs
-Hello everybody, this is a sample and simple discord.js bot. It has a command handler and a ping command. It does not require complex knowledge of programming, programs etc. You can follow the tutorial: https://www.youtube.com/watch?v=FrWv8D1AUgo
+Hello everybody, this is a sample and simple discord.js bot. It has a command handler and a ping command. It does not require complex knowledge of programming, programs etc. You can follow the tutorial in our channel : https://www.youtube.com/channel/UCyqmjPe8V2RvcrVIlnQDZFA
 
 SUBSCRIBE AND RING THE NOTIFICATION BELL FOR UPDATES ON THE BOT
 Join our Discord Server for support: 
@@ -17,4 +17,4 @@ Step 2) Change token in config.json file
 Step 3) Run "npm i" in command prompt/terminal/powershell in the directory where the files are located.
 Step 4) Add your own commands and have fun!
 
-- Glow Narrow  [Blaze King]
+-Blaze King
